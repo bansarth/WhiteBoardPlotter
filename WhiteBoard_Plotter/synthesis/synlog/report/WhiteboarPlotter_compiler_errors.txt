@@ -1,0 +1,2 @@
+@E: CS153 :"N:\EECS373_Project\WhiteBoard_Plotter\hdl\Stepper_control.v":50:17:50:17|Can't mix blocking and non-blocking assignments to a variable
+
